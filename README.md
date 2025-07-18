@@ -143,8 +143,8 @@ Use an LLM via a third-party API (OpenAI, Azure, Ollama, etc.) to process natura
 **Reach out to:**
 
 - Ntshuxeko Mathebula
-- Enzo Mabunda
-- Trishkaya Govender
+- Enzo du Plessis
+- Trishkaya Harisunker
 - Mukondi Muluvhu
 - 💬 Email: support@optinum.co.za
 
